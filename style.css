@@ -1,0 +1,28 @@
+* {
+	padding: .1%;
+	margin: 0; 
+	box-sizing: border-box;
+}
+
+section{
+	border: 2px solid rgb(240, 240, 240);
+}
+
+img {
+    max-width: 200px;
+}
+
+nav a {
+	padding: 2%;
+	margin: .05rem;
+	display: inline-block;
+}
+
+div {
+	margin: .5%;
+	margin-bottom: 2%;
+}
+
+.functional {
+	background-color: beige;
+}
